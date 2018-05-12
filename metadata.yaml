@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39715
     wikipedia: http://en.wikipedia.org/wiki/Edward_Hungerford_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38921#The-Romance-of-a-Great-Store
 gutenberg_issued: '2012-02-18'
 gutenberg_type: Text
 identifiers:
